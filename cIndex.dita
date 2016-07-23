@@ -3,7 +3,9 @@
 "concept.dtd">
 <concept id="cIndex">
   <title>SK-8.de</title>
-  <shortdesc>Rollen wie Fliegen auf Straßen. Inlineskating, Benzin</shortdesc>
+  <shortdesc>Rollen
+    <?oxy_comment_start author="ksowada" timestamp="20160724T001831+0300" comment="hatte noch eine bessere Idee"?>wie<?oxy_comment_end?>
+    Fliegen auf Straßen. Inlineskating, Benzin</shortdesc>
   <conbody>
     <p/>
   </conbody>
